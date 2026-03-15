@@ -115,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5ca28a737465260",
@@ -235,11 +236,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a950634a841e459b",
+  "active": "500d0d62e71c7e6a",
   "lastOpenFiles": [
-    "Pasted image 20260315232955.png",
-    "markdown/001-基本概念.md",
     "计算机科学导论（第4版） (【美】贝赫鲁兹·佛罗赞 著 吕云翔 杨洪洋 曾洪立 等译) (Z-Library).pdf",
+    "markdown/001-基本概念.md",
+    "Pasted image 20260315232955.png",
     "README.md",
     "Excalidraw/Drawing 2026-03-15 01.59.09.excalidraw.md",
     "Excalidraw",
